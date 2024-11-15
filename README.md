@@ -8,7 +8,7 @@
 
 ## Projeto 3
 
-## Integrantes: <a href="https://www.linkedin.com/in/rebeca-da-silva-vieira-850a83242">Rebeca da Silva Vieira </a>, <a href="https://www.linkedin.com/in/rafael-pinto-da-silva-8a6a982a5?trk=contact-info">Rafael Pinto da Silva</a>, <a href="https://www.linkedin.com">Eduardo Fraga</a>, <a href="https://www.linkedin.com/in/gabriel-berto-167475141/">Gabriel Berto Horácio da Silva</a>, <a href="https://www.linkedin.com">Lucas Silva Cardiais</a>, <a href="https://www.linkedin.com">Nicolas Bueno Zagatto</a>, <a href="https://www.linkedin.com">Nicolle Costa</a>, <a href="https://www.linkedin.com">Vinicius Burato</a>
+## Integrantes: <a href="https://www.linkedin.com/in/rebeca-da-silva-vieira-850a83242">Rebeca da Silva Vieira</a>, <a href="https://www.linkedin.com/in/rafael-pinto-da-silva-8a6a982a5?trk=contact-info">Rafael Pinto da Silva</a>, <a href="https://www.linkedin.com/in/eduardo-fraga-santos">Eduardo fraga Alves dos Santos</a>, <a href="https://www.linkedin.com/in/gabriel-berto-167475141/">Gabriel Berto Horácio da Silva</a>, <a href="https://www.linkedin.com">Lucas Silva Cardiais</a>, <a href="https://www.linkedin.com/in/nicolas-bueno-zagatto-b274451a4/">Nicolas Bueno Zagatto</a>, <a href="https://www.linkedin.com">Nicolle Costa</a>, <a href="https://www.linkedin.com">Vinicius Burato</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/edsonbarbero/">Edson Barbero</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>
 
@@ -99,11 +99,12 @@ Coloque código do prompt de comnando se for necessário
 
 ## 🎓 Referências
 
-Aqui estão as referências usadas no projeto.
+Aqui estão as referências usadas no nosso projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. <https://www.kaggle.com/code/arunjangir245/mapping-food-wastage-trends>
+2. <https://www.fao.org/platform-food-loss-waste/flw-data/en/>
+3. <https://www.kaggle.com/code/joshhoulding/exploring-food-waste-data>
+4. <https://www.ibge.gov.br/estatisticas/economicas/agricultura-e-pecuaria/9201-levantamento-sistematico-da-producao-agricola.html>
+5. <https://brasil.un.org/pt-br/264460-%C3%ADndice-de-desperd%C3%ADcio-de-alimentos-2024>
+
+
