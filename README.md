@@ -15,7 +15,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="LOGO DO REAT" border="0">
+<img src="imagens/IMG_1474-1.png" alt="LOGO DO REAT" border="0">
 </p>
 
 
