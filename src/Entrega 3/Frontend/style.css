@@ -1,0 +1,138 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.desktop .overlap {
+  width: 1440px;
+  height: 53px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  background-color: #2b5332;
+  border: 1px solid #000000;
+}
+
+.desktop .IMG {
+  position: absolute;
+  width: auto;
+  height: 200px;
+  top: -75px;
+  left: 660px;
+}
+
+.desktop .overlap-group {
+  width: 1170px;
+  height: 822px;
+  top: 115px;
+  left: 135px;
+  border-radius: 20px;
+  position: absolute;
+  background-color: #2b5332;
+  border: 1px solid #000000;
+}
+
+.desktop .rectangle {
+  width: 1124px;
+  height: 793px;
+  top: 13px;
+  left: 21px;
+  background-color: #d1ddd3;
+  border-radius: 15px;
+  position: absolute;
+  border: 1px solid #000000;
+}
+
+/* Barra de entrada de texto */
+.desktop .barra-digitar {
+  position: absolute;
+  top: 699px;
+  left: 220px;
+  width: 800px;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  border: 1px solid #000000;
+  padding: 5px;
+}
+
+.desktop .barra-digitar input {
+  width: 90%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  outline: none;
+  background-color: #ffffff;
+}
+
+.desktop .botao-enviar {
+  position: absolute;
+  top: 699px;
+  left: 981px;
+  width: 96px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #a3a2a2;
+  border-radius: 5px;
+  border: 1px solid #000000;
+  cursor: pointer;
+}
+
+.desktop .botao-enviar:hover {
+  background-color: #858585;
+}
+
+.desktop .botao-enviar button {
+  background: none;
+  border: none;
+  font-size: 16px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 752px;
+  top: 155px;
+  left: 209px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  width: 396px;
+  top: 710px;
+  left: 130px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  white-space: nowrap;
+}
+
+.desktop .send {
+  position: absolute;
+  width: 37px;
+  height: 33px;
+  top: 709px;
+  left: 1010px;
+  object-fit: cover;
+}
