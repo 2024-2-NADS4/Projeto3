@@ -31,7 +31,7 @@ Com os dados dos perfis da aplicação poderemos também analisar:
 * Os tipos de alimentos mais consumidos de cada pessoa.
 * Rotinas de refeições.
 * Preferências alimentícias.
-* Além de fornecer dados importantes de perfils de consumo para stakeholders, claro que respeitando a Lei Geral de Proteção de Dados Pessoais do usuário.
+* Além de fornecer dados importantes de perfil de consumo para stakeholders, claro que respeitando a Lei Geral de Proteção de Dados Pessoais do usuário.
 
 ## 🛠 Estrutura de pastas
 
