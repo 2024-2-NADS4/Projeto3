@@ -64,17 +64,9 @@ Encontre o reat.php na pasta Entrega 4 Front-end em src e execute-o como qualque
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
+<b>Banco de dados MySQL</b>
+Este projeto utiliza um banco de dados MySQL para utilização de seu banco de dados. Para rodar localmente, você pode seguir uma das opções abaixo:
+Instalar o MySQL diretamente no seu sistema.
 
 ## 📋 Licença/License
 
