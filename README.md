@@ -29,16 +29,28 @@ Nossa solução solicita ao usuário os alimentos disponíveis em sua residênci
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
+  &emsp;|-->Entrega 1<br>
+  &emsp;|-->Entrega 2<br>
+  &emsp;|-->Entrega 3<br>
+  &emsp;|-->Entrega 4<br>
 |-->executáveis<br>
   &emsp;|-->windows<br>
   &emsp;|-->android<br>
   &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 1<br>
+   &emsp;&emsp;|-->Backend<br>
+   &emsp;&emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 2<br>
+   &emsp;&emsp;|-->Backend<br>
+   &emsp;&emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 3<br>
+   &emsp;&emsp;|-->Backend<br>
+   &emsp;&emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 4<br>
+   &emsp;&emsp;|-->Backend<br>
+   &emsp;&emsp;|-->Frontend<br>
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
