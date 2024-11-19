@@ -48,9 +48,9 @@ Nossa solução solicita ao usuário os alimentos disponíveis em sua residênci
   &emsp;|-->Entrega 3<br>
    &emsp;&emsp;|-->Backend<br>
    &emsp;&emsp;|-->Frontend<br>
-  &emsp;|-->Entrega 4<br>
+  &emsp;|-->Entrega 4 (PROJETO FINAL)<br>
    &emsp;&emsp;|-->Backend<br>
-   &emsp;&emsp;|-->Frontend<br>
+  &emsp;&emsp;|-->Frontend<br>
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
