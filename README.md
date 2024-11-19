@@ -8,7 +8,7 @@
 
 ## Projeto 3
 
-## Integrantes: <a href="https://www.linkedin.com/in/rebeca-da-silva-vieira-850a83242">Rebeca da Silva Vieira</a>, <a href="https://www.linkedin.com/in/rafael-pinto-da-silva-8a6a982a5?trk=contact-info">Rafael Pinto da Silva</a>, <a href="https://www.linkedin.com/in/eduardo-fraga-santos">Eduardo fraga Alves dos Santos</a>, <a href="https://www.linkedin.com/in/gabriel-berto-167475141/">Gabriel Berto Horácio da Silva</a>, <a href="https://www.linkedin.com">Lucas Silva Cardiais</a>, <a href="https://www.linkedin.com/in/nicolas-bueno-zagatto-b274451a4/">Nicolas Bueno Zagatto</a>, <a href="https://www.linkedin.com">Nicolle Costa</a>, <a href="https://www.linkedin.com">Vinicius Burato</a>
+## Integrantes: <a href="https://www.linkedin.com/in/rebeca-da-silva-vieira-850a83242">Rebeca da Silva Vieira</a>, <a href="https://www.linkedin.com/in/rafael-pinto-da-silva-8a6a982a5?trk=contact-info">Rafael Pinto da Silva</a>, <a href="https://www.linkedin.com/in/eduardo-fraga-santos">Eduardo fraga Alves dos Santos</a>, <a href="https://www.linkedin.com/in/gabriel-berto-167475141/">Gabriel Berto Horácio da Silva</a>, <a href="https://www.linkedin.com">Lucas Silva Cardiais</a>, <a href="https://www.linkedin.com/in/nicolas-bueno-zagatto-b274451a4/">Nicolas Bueno Zagatto</a>, <a href="https://www.linkedin.com/in/nicolle-costa-a85100211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Nicolle Costa de Jesus</a>, <a href="https://www.linkedin.com">Vinicius Burato</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/edsonbarbero/">Edson Barbero</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>
 
@@ -23,6 +23,15 @@
 <br><br>
 Nossa solução solicita ao usuário os alimentos disponíveis em sua residência e quantidade de pessoas que serão atendidas na refeição por meio de um chatbot interativo, a partir daí com o uso de inteligência artificial serão listadas sugestões de refeições criativas que atendem a suas necessidades e fazem bom uso de seus recursos, minimizando o descarte por excesso e depreciação de alimentos não utilizados. 
 <br><br>
+
+## Objetivos 🏹
+Conforme nossos usuários utilizam nossa aplicação, esperamos uma minimização no desperdício de alimentos no Brasil seguida de uma alimentação mais saudável e por sua vez também atender os Objetivos de Desenvolvimento Sustentável da ONU, expecificamente o Objetivo de Desenvolvimento Sustentável (ODS) 12, "Consumo e Produção Responsáveis" e Objetivo de Desenvolvimento Sustentável (ODS) 13 "Ação Contra a Mudança Global do Clima" relacionados com o escopo deste preojeto.
+<br><br>
+Com os dados dos perfis da aplicação poderemos também analisar: 
+* Os tipos de alimentos mais consumidos de cada pessoa.
+* Rotinas de refeições.
+* Preferências alimentícias.
+* Além de fornecer dados importantes de perfils de consumo para stakeholders, claro que respeitando a Lei Geral de Proteção de Dados Pessoais do usuário.
 
 ## 🛠 Estrutura de pastas
 
@@ -49,7 +58,7 @@ Nossa solução solicita ao usuário os alimentos disponíveis em sua residênci
   &emsp;&emsp;|-->Frontend<br>
 |readme.md<br>
 
-Há 3 pastas que seguem da seguinte forma:
+Há 3 pastas que seguem da seguinte forma, de acordo com o cronograma de entregas do orientador Victor Bruno Alexander Rosetti de Quiroz:
 
 <b>documentos</b>: Toda a documentação estará nesta pasta, tal como as entregas não referentes aos código. Salvo exceções como algoritmos de análise.
 
