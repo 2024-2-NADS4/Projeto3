@@ -33,10 +33,6 @@ Nossa solução solicita ao usuário os alimentos disponíveis em sua residênci
   &emsp;|-->Entrega 2<br>
   &emsp;|-->Entrega 3<br>
   &emsp;|-->Entrega 4<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Entrega 1<br>
@@ -56,8 +52,6 @@ Nossa solução solicita ao usuário os alimentos disponíveis em sua residênci
 Há 4 pastas que seguem da seguinte forma:
 
 <b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
 
 <b>imagens</b>: Imagens do sistema
 
