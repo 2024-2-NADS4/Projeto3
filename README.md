@@ -49,38 +49,18 @@ Nossa solução solicita ao usuário os alimentos disponíveis em sua residênci
   &emsp;&emsp;|-->Frontend<br>
 |readme.md<br>
 
-Há 4 pastas que seguem da seguinte forma:
+Há 3 pastas que seguem da seguinte forma:
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
+<b>documentos</b>: Toda a documentação estará nesta pasta, tal como as entregas não referentes aos código. Salvo exceções como algoritmos de análise.
 
-<b>imagens</b>: Imagens do sistema
+<b>imagens</b>: Imagens como logo.
 
-<b>src</b>: Pasta que contém o código fonte.
+<b>src</b>: Pasta que contém as entregas de código fonte, demonstrando o avanço do projeto. Projeto Final se encontra na ENTREGA 4.
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>Windows:</b>
-
 Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+Encontre o reat.php na pasta Entrega 4 Front-end em src e execute-o como qualquer outro programa.
 
 ## 💻 Configuração para Desenvolvimento
 
